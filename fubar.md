@@ -3,6 +3,9 @@ This is what Bob & Carol did on Bob's computer when working on the first feature
 
 Bla bla bla
 
+
+This thing is loco
+
 if (amos === bad){
   nuke the world
 } else {
